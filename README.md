@@ -1,16 +1,13 @@
-## Hi there 👋
+# こんにちは 👋
 
-<!--
-**m224t156-web/m224t156-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+京都精華大学でデザインと Web 開発を学んでいます。
 
-Here are some ideas to get you started:
+## 学んでいること
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML / CSS
+- JavaScript
+- Git / GitHub
+
+## 作品
+
+- [2Q の課題作品](https://github.com/m224t156-web/m224t156-web.git)
