@@ -4,12 +4,12 @@
 
 ## 学んでいること
 
-- 高校情報教員免許取得、教員採用試験対策
+- 高校情報教員免許取得、教員採用試験対策勉強
 
 - HTML / CSS
 - JavaScript
 - Git / GitHub
 
 ## 作品
-
 - [2Qの最終課題](https://m224t156-web.github.io/homepage/)
+- 
