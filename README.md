@@ -12,4 +12,4 @@
 
 ## 作品
 
-- [2Q の課題作品](https://github.com/m224t156-web/m224t156-web.git)
+- [2Qの最終課題](https://m224t156-web.github.io/homepage/)
